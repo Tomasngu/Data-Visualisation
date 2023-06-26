@@ -9,3 +9,9 @@ Learning `Pandas, Numpy,  Matplotlib, Seaborn` and `NetworkX` along the way.
 | 2. [Prague tram analysis](02/assignment02.ipynb) |  24.5 / 25
 | 3. [Chess games analysis](03/assignment03.ipynb) |  50 / 50
 
+## Examples
+![alt text](images/graph.png "image")
+
+![alt text](images/tram.png "image")
+
+![alt text](images/boundary.png "image")
